@@ -9,8 +9,8 @@ What time is? is a simple slash command you can run from Slack. It will convert 
 
 ```
 /whattimeis 12 am PST in CET
-/whattime is 23:47 MST in GMT
-/whattime is 9 GMT in EST
+/whattimeis 23:47 MST in GMT
+/whattimeis 9 GMT in EST
 ```
 
 ##Author
