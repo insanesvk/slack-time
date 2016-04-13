@@ -2,7 +2,7 @@
 What time is, is a simple API I wrote for a Slack command that goes with it, `/whattimeis time pst in cet`. After working in a team spread across the entire planet, coordinating hours and knowing what time are your meetings, was a pain. Until now.
 
 #Installation
-In order to be able to run this command, you need to add our app in your Slack integrations. Details here.
+The Slack app is still in active development, instructions on how to install it will be updated soon (within the end of April).
 
 #Usage
 What time is? is a simple slash command you can run from Slack. It will convert the time, from one timezone to another. It is also DST aware. Examples:
