@@ -1,4 +1,5 @@
-#What time is (or slack-time)
+# What time is (or slack-time)
+
 What time is, is a simple API I wrote for a Slack command that goes with it, `/whattimeis time pst in cet`. After working in a team spread across the entire planet, coordinating hours and knowing what time are your meetings, was a pain. Until now.
 
 #Installation
